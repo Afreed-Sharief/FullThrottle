@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Name : Full Throttle 
+
+An application used to fetch the data from the Api Server and describes all the time ranges during which they were active on that day, with an option to view all the periods of activity. built with React, JavaScript, and Bootstrap.
+
+Installation and Setup Instructions:
 
 ## Available Scripts
 
